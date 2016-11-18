@@ -1,9 +1,7 @@
 # beer-as-a-service
 
 What you need to start it up:
-- Node.js and npm installed 
--- Node - 4.0.0 or higher
--- npm - 3.0.0 or higher
+- Node.js(v4.0.0 or higher) and npm(v3.0.0 or higher) installed 
 - then
 
 ```
